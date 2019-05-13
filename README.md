@@ -1,6 +1,6 @@
 ## This is a collection of files and notes for Advanced NodeJS Concepts
 
-#### Items that will be covered:
+### Items that will be covered:
 - NodeJS as a program
 - Event Loop
 - Threads
